@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a billion dollar startup project with my friends!
 - 🌱 I’m currently learning Go.
 
-- 📫 Reach me from my LinkedIn: https://www.linkedin.com/in/ahmet-furkan-morko%C3%A7-83181a1b8/:grin: 
+- 📫 Reach me from my LinkedIn: https://www.linkedin.com/in/ahmet-furkan-morko%C3%A7-83181a1b8/:grin
