@@ -4,8 +4,9 @@
 Here are some ideas to get you started:
 
 -->
-- 💻 I know & use: HTML, CSS, NodeJS, ReactJS, ExpressJS, MongoDB, Postgresql, AWS Amplify and Firebase
-- 🔭 I’m currently working on a startup project!
-- 🌱 I’m currently learning Go.
+- 🎒 Software Team Leader at 3Fs
+- 💻 know & use: HTML, CSS, NodeJS, ReactJS, ExpressJS, MongoDB, Postgresql, AWS Amplify and Firebase
+- 🔭 currently working on a startup project!
+- 🌱 currently learning Go.
 
 - 📫 Reach me on my LinkedIn: https://www.linkedin.com/in/ahmet-furkan-morko%C3%A7-83181a1b8/:grin
