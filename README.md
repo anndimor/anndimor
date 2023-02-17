@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 ## Contact
 - 📫 Reach me on my <a href="https://www.linkedin.com/in/ahmet-furkan-morko%C3%A7-83181a1b8/:grin" target="_blank">LinkedIn</a>
 - 📧 Mail to me <a href="mailto:info@korteks.dev">info@korteks.dev</a>
+
+### 🎉🔗 Check out our new project <a href="https://korteks.dev" target="_blank">KORTEKS</a>!
