@@ -5,9 +5,9 @@ Here are some ideas to get you started:
 
 -->
 ## About Me
-- 🏫 High school student at <a href="https://iafl.meb.k12.tr/" target="_blank">IAFL</a>
+- 🏫 Studying computer science in <a href="https://w3.bilkent.edu.tr/bilkent/" target="_blank">Bilkent University</a>
 - 💻 Software team leader at <a href="https://github.com/3f-s" target="_blank">3Fs</a>
-- 🎒 IAFL computer club board leader
+- 🎒 High school grad from <a href="https://iafl.meb.k12.tr/" target="_blank">IAFL</a>
 ## Tech I use
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,scss,c,cpp,python,nodejs,electron,express,firebase,aws,replit,vercel,vscode,visualstudio,postman,mongodb,postgres,git,figma" />
 
