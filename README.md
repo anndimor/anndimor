@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ## About Me
 - 🏫 Studying computer science at <a href="https://w3.bilkent.edu.tr/bilkent/" target="_blank">Bilkent University</a>
 
-- 🎒 High school grad from <a href="https://iafl.meb.k12.tr/" target="_blank">IAFL</a>
+- 🎒 High school grad from <a href="https://iafl.meb.k12.tr/" target="_blank">İAFL</a>
 ## Tech I use
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,nodejs,electron,express,firebase,aws,replit,vercel,vscode,postman,mongodb,postgres,git,figma" />
 
