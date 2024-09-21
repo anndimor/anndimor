@@ -9,12 +9,13 @@ Here are some ideas to get you started:
 - 💻 Working with my team <a href="https://github.com/3f-s" target="_blank">3Fs</a>
 - 🎒 High school grad from <a href="https://iafl.meb.k12.tr/" target="_blank">IAFL</a>
 ## Tech I use
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,scss,c,cpp,python,nodejs,electron,express,firebase,aws,replit,vercel,vscode,visualstudio,postman,mongodb,postgres,git,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,scss,python,nodejs,electron,express,firebase,aws,replit,vercel,vscode,postman,mongodb,postgres,git,figma" />
 
 ## Contact
 - 📫 Reach me on my <a href="https://www.linkedin.com/in/furkan-morkoc-83181a1b8/">LinkedIn</a>
 - 📧 Mail to me <a href="mailto:info@korteks.dev">info@korteks.dev</a>
 <!--
 ### 🎉🔗 Check out our new project <a href="https://korteks.dev" target="_blank">KORTEKS</a>!
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,scss,c,cpp,python,nodejs,electron,express,firebase,aws,replit,vercel,vscode,visualstudio,postman,mongodb,postgres,git,figma" />
 
 -->
